@@ -5,7 +5,7 @@ apscheduler==3.6.3
 python-dateutil==2.8.1
 Flask==1.1.2
 pandas==0.24.1
-numpy==1.16.2
+numpy==1.22.0
 ccxt==1.28.90
 gevent==20.6.0
 greenlet==0.4.16
